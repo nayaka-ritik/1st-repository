@@ -1,4 +1,3 @@
-# 1st-repository
-this is my first repository.
+today is 3rd november 2026.
 <br>
-author-nayaka ritik
+author- ritik 
